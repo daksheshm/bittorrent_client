@@ -22,14 +22,8 @@ Follow these steps to get the client up and running on your local machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/bbswitzer/BitTorrent-Client.git
-    cd BitTorrent-Client
-    ```
-
-2.  **Install the required dependencies:**
-    *(It is recommended to use a Python virtual environment)*
-    ```bash
-    pip install -r requirements.txt
+    git clone https://github.com/bbswitzer/bittorrent_client.git
+    cd bittorrent_client
     ```
 
 ## Usage
